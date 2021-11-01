@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartStaffUz</string>
+    <string-array name="algorithm">
+        <item>Algorithm1</item>
+        <item>Algorithm2</item>
+        <item>Algorithm3</item>
+    </string-array>
+</resources>
